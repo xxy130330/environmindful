@@ -20,8 +20,8 @@ Will add later.
 
 ## Authors
 
+* **Christin Yang** - [Github](https://github.com/xxy130330)
 * **Bruce An** - [Github](https://github.com/brucean52)
 * **Christian Campos** - [Github](https://github.com/camposss)
 * **Ryan Libed** - [Github](https://github.com/rslibed)
 * **Francesca Sinocruz** - [Github](https://github.com/csinocruz)
-* **Christin Yang** - [Github](https://github.com/xxy130330)
